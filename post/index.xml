@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hugo Hero Theme</title>
-    <link>https://www.example.com/post/</link>
+    <link>https://stunning-mooncake-f13d98.netlify.app/post/</link>
     <description>Recent content in Posts on Hugo Hero Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jun 2022 01:14:40 +0800</lastBuildDate><atom:link href="https://www.example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jun 2022 01:14:40 +0800</lastBuildDate><atom:link href="https://stunning-mooncake-f13d98.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://www.example.com/2022/06/03/first/</link>
+      <link>https://stunning-mooncake-f13d98.netlify.app/2022/06/03/first/</link>
       <pubDate>Fri, 03 Jun 2022 01:14:40 +0800</pubDate>
       
-      <guid>https://www.example.com/2022/06/03/first/</guid>
+      <guid>https://stunning-mooncake-f13d98.netlify.app/2022/06/03/first/</guid>
       <description>i� �l�o�v�e� �y�o�u�,�x�y�y� �h�u�r�t�!�� �</description>
     </item>
     
