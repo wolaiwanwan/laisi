@@ -4,9 +4,11 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>project - 来思</title>
+  <title>Products - 来思</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
+    <meta name="description" content="我来试试" />
+
   <link rel="icon" href="https://stunning-mooncake-f13d98.netlify.app/favicon.png">
 
   
@@ -18,7 +20,7 @@
 
 </head>
 
-<body class='page page-work-list'>
+<body class='page page-services-list'>
   <div id="main-menu-mobile" class="main-menu-mobile">
   <ul>
     
@@ -66,14 +68,14 @@
   <ul>
     
     
-    <li class="menu-item-products">
+    <li class="menu-item-products active">
       <a href="/services/">
         
         <span>Products</span>
       </a>
     </li>
     
-    <li class="menu-item-projects active">
+    <li class="menu-item-projects">
       <a href="/work/">
         
         <span>Projects</span>
@@ -105,74 +107,110 @@
 </div>
     
 
-<div id="hero" class="hero-image hero-image-setheight" style="background-image: url('/')">
+<div id="hero" class="hero-image hero-image-setheight" style="background-image: url('https://source.unsplash.com/eluzJSfkNCk/1600x400')">
   <div class="container ">
     <div class="hero-text">
       <span class="hero-section"></span>
-      <h1>Projects</h1>
-      <p>Our portfolio and previous projects</p>
+      <h1>Theless</h1>
+      <p>Products that is as well as imported product</p>
     </div>
   </div>
 </div>
   
 
 
+
 <div class="container pb-6 pt-6 pb-md-10 pt-md-10">
   <div class="row">
     
-    <div class="col-12 col-md-6 mb-2 "><div class="work work-summary">
+    <div class="col-12 col-md-6 mb-2 "><div class="service service-summary">
   
-  <div class="work-image">
-    <a href="/work/fall-plaza/"><img src="/work/work3.jpg"/></a>
+  <div class="service-image">
+    <img height="80" width="80" src="/services/service-icon-1.png" alt="Good Flexibility柔韧性" />
   </div>
   
-  <div class="work-content">
-    <h2 class="work-title">
-      <P>嘉华公馆</p>
+  <div class="service-content">
+    <h2 class="service-title">
+      <a href="https://stunning-mooncake-f13d98.netlify.app/services/accounting/">Good Flexibility柔韧性</a>
     </h2>
-    
+    <p>Theless microcement is hignly flexible 
+and will not crack extreme to 90-degree bendiing.
+This can be used to curved...</p>
   </div>
 </div></div>
     
-    <div class="col-12 col-md-6 mb-2 "><div class="work work-summary">
+    <div class="col-12 col-md-6 mb-2 "><div class="service service-summary">
   
-  <div class="work-image">
-    <a href="/work/modern-hospital/"><img src="/work/work2.jpg"/></a>
+  <div class="service-image">
+    <img height="80" width="80" src="/services/service-icon-6.png" alt="Stain Resistence耐污性" />
   </div>
   
-  <div class="work-content">
-    <h2 class="work-title">
-      <p>Bathroom</p>
+  <div class="service-content">
+    <h2 class="service-title">
+      <a href="https://stunning-mooncake-f13d98.netlify.app/services/tax-filing/">Stain Resistence耐污性</a>
     </h2>
-    
+    <p>Coke,coffee,soy sauce,oil stain,tea stain,red wine and other weak acid weak alklain stain
+will not cause any damage to...</p>
   </div>
 </div></div>
     
-    <div class="col-12 col-md-6 mb-2 "><div class="work work-summary">
+    <div class="col-12 col-md-6 mb-2 "><div class="service service-summary">
   
-  <div class="work-image">
-    <a href="/work/modern-hospital-%E5%89%AF%E6%9C%AC/"><img src="/work/work4.jpg"/></a>
+  <div class="service-image">
+    <img height="80" width="80" src="/services/service-icon-4.png" alt="Fire Resistence防火A" />
   </div>
   
-  <div class="work-content">
-    <h2 class="work-title">
-      <p>Modern Hospital</p>
+  <div class="service-content">
+    <h2 class="service-title">
+      <a href="https://stunning-mooncake-f13d98.netlify.app/services/mergers/">Fire Resistence防火A</a>
     </h2>
-    
+    <p>Class A non-combustible material for all kinds of design applications
+You can use it in various spaces, such as villas,...</p>
   </div>
 </div></div>
     
-    <div class="col-12 col-md-6 mb-2 "><div class="work work-summary">
+    <div class="col-12 col-md-6 mb-2 "><div class="service service-summary">
   
-  <div class="work-image">
-    <a href="/work/cargo-terminal/"><img src="/work/work5.jpg"/></a>
+  <div class="service-image">
+    <img height="80" width="80" src="/services/service-icon-3.png" alt="High Compressive Strenth 抗压强度" />
   </div>
   
-  <div class="work-content">
-    <h2 class="work-title">
-      <p>Outside</p>
+  <div class="service-content">
+    <h2 class="service-title">
+      <a href="https://stunning-mooncake-f13d98.netlify.app/services/business-sales/">High Compressive Strenth 抗压强度</a>
     </h2>
+    <p>Compressive of microcement is 3.57kg/mm,more than ceramic.
+It can be used for outdoor ground without fear of being...</p>
+  </div>
+</div></div>
     
+    <div class="col-12 col-md-6 mb-2 "><div class="service service-summary">
+  
+  <div class="service-image">
+    <img height="80" width="80" src="/services/service-icon-5.png" alt="Water resistence耐水性" />
+  </div>
+  
+  <div class="service-content">
+    <h2 class="service-title">
+      <a href="https://stunning-mooncake-f13d98.netlify.app/services/superannuation/">Water resistence耐水性</a>
+    </h2>
+    <p>Microcement has excellent water resistence for bathroom application.
+microcement can withstand the erosion of extreme...</p>
+  </div>
+</div></div>
+    
+    <div class="col-12 col-md-6 mb-2 "><div class="service service-summary">
+  
+  <div class="service-image">
+    <img height="80" width="80" src="/services/service-icon-2.png" alt="Hign Strenth Adhesion附着力" />
+  </div>
+  
+  <div class="service-content">
+    <h2 class="service-title">
+      <a href="https://stunning-mooncake-f13d98.netlify.app/services/business-advisory/">Hign Strenth Adhesion附着力</a>
+    </h2>
+    <p>Two component microcement has excellent adhesion properties.Can be directly applied to 
+various substrates of different...</p>
   </div>
 </div></div>
     
